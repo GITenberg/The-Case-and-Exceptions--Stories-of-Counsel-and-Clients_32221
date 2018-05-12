@@ -1,0 +1,30 @@
+_repo: The-Case-and-Exceptions--Stories-of-Counsel-and-Clients_32221
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32221-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hill, Frederick Trevor
+    birthdate: 1866
+    deathdate: 1930
+    gutenberg_agent_id: '1389'
+    url: http://www.gutenberg.org/2009/agents/1389
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Legal stories'
+tableOfContents: Outside the record -- In the matter of Bateman -- The finding of
+  fact -- A conclusion of law -- The burden of proof -- In his own behalf -- His honour
+  -- An abstract story -- By way of counterclaim -- In the name of the people -- The
+  latest decision -- The distant drum.
+title: 'The Case and Exceptions: Stories of Counsel and Clients'
+url: http://www.gutenberg.org/ebooks/32221

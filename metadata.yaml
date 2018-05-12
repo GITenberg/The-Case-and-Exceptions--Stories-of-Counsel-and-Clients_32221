@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1389'
     url: http://www.gutenberg.org/2009/agents/1389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32221#The-Case-and-Exceptions--Stories-of-Counsel-and-Clients
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
